@@ -1,3 +1,6 @@
+/cmake-build-*
+/.idea
+/out
 win/bin/
 win/obj/
 win/_ReSharper.h264bsd/
